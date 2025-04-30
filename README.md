@@ -90,9 +90,11 @@ Your ticket is being printed...
 
 The end of the program...
 ```
+---
 
 ## Requirements
 - Python 3.x
+---
 
 ## License
 This project is open-source and available under the MIT License.
