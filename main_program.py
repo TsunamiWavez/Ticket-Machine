@@ -110,7 +110,7 @@ while True:
         elif user_input == 1:
             # There is a discount for students
             print("\nWe have a special discount for students! "
-                  "Are you a student??\n0 - no, 1 - yes.")
+                  "Are you a student?\n0 - no, 1 - yes.")
             try:
                 user_student = int(input("\n>>> "))
             except ValueError:
