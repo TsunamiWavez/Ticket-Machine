@@ -4,6 +4,13 @@ This is a **simple simulation of a ticket vending machine** for a drawing master
 It is a console-based Python program designed for learning purposes and small-scale ticket sale simulation.
 
 ---
+## 🧠 Purpose
+This project was created as a learning exercise for practicing:
+- Object-oriented programming using Inheritance
+- Working with JSON and file handling
+- Simple user interaction in Python
+
+---
 ## 📋 Features
 - ✅ Sell up to **10 tickets**
 - 🎓 Special **discounts for students**
