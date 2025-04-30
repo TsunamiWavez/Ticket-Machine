@@ -9,7 +9,7 @@ It is a console-based Python program designed for learning purposes and small-sc
 - 🎓 Special **discounts for students**
 - ⏳ Discounts for **early buyers** (90+ days before event)
 - 🕒 Price increase for **late purchases** (7 days or less)
-- 💾 Number of tickets are stored in a `tickets.json` file to make sure each ticket has a unique number.
+- 💾 Number of tickets are stored in a `tickets.json` file to make sure each ticket has a unique number
 - ⚠️ The program takes into account all possible errors and displays a special message if the user has entered an incorrect input value
 
 ---
@@ -26,7 +26,7 @@ It is a console-based Python program designed for learning purposes and small-sc
 ---
 
 ## 📁 Files
-- `main.py` — main Python script with simulation logic  
+- `main_program.py` — main Python script with simulation logic  
 - `tickets.json` — stores sold ticket numbers (created automatically on first run)
 ---
 
