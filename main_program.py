@@ -14,6 +14,7 @@ class Ticket:
     """The basic ticket"""
     def __init__(self):
         self.price = 15
+        # Random generation of the ticket number
         if len(sold_tickets) >= 10:
             pass
         else:
